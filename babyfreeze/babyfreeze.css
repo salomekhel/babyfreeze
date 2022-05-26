@@ -1,7 +1,7 @@
 /*  babyfreeze css */
 body {
   font-size: 20px;
-  background-image: url('/Users/SalomeK/Documents/babyfreeze/images/BBFbackground.jpeg');
+  background-image: url('./images/BBFbackground.jpeg');
 }
 
 #logo{
